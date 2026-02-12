@@ -1,0 +1,25 @@
+# Compiled output
+*.o
+*.out
+*.exe
+output/
+
+# Debug files
+*.dSYM/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+
+# IDE files
+*.code-workspace
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*~
